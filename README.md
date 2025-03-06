@@ -1,2 +1,2 @@
-# Curve_-Construction
+# Curve Construction
 Numerical Methods for Curve Construction
